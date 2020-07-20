@@ -1,0 +1,3 @@
+qiskit==0.19
+seaborn==0.10
+ipywidgets==7.5.1
