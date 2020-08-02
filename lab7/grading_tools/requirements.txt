@@ -1,0 +1,4 @@
+qiskit==0.19
+scipy==1.5.1
+sympy==1.6.1
+git+https://github.com/Qiskit/qiskit-aer@236674e3291e3bdbf929e3fca74ba043c43809d9
